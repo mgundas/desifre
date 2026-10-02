@@ -1,0 +1,16 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+bootstrap.json
+.pytest_cache/
+tests/_artifacts/
+*.log
+.env
+node_modules/
+.coverage
+htmlcov/
+*.egg-info/
+.claude/
+.vscode/
+models/
